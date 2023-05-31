@@ -1,5 +1,4 @@
 <div align="center">
-  
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=신입 개발자 입니다.)
 </div>
 
