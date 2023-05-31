@@ -1,3 +1,8 @@
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=안녕하세요)
+</div>
+
 ### :남성_기술_전문가: 프로그래밍 & 마크업 언어
 <div>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
@@ -31,4 +36,11 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </div>
 
-![ture403's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+<div>
+  ![ture403's github stats](https://github-readme-stats.vercel.app/api?username=ture403&show_icons=true)
+</div>
+
+<div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ture403)](https://solved.ac/yoon828990)<br/>
+</div>
+
