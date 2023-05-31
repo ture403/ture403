@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=안녕하세요)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=신입 개발자 입니다.)
 </div>
 
 ### :남성_기술_전문가: 프로그래밍 & 마크업 언어
