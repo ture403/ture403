@@ -1,6 +1,20 @@
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=신입 개발자 입니다.)
-</div>
+<div align="left">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20juneyungi's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+---
+  
+
+
+[![ture403's GitHub stats](https://github-readme-stats.vercel.app/api?username=ture403&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ture403/github-readme-stats)
+ 
+<br>
+ 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:ture403@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
 
 ### :남성_기술_전문가: 프로그래밍 & 마크업 언어
 <div>
@@ -35,11 +49,4 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </div>
 
-<div>
-  ![ture403's github stats](https://github-readme-stats.vercel.app/api?username=ture403&show_icons=true)
-</div>
-
-<div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ture403)](https://solved.ac/yoon828990)<br/>
-</div>
 
