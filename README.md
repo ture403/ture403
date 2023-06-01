@@ -9,7 +9,9 @@
 [![ture403's GitHub stats](https://github-readme-stats.vercel.app/api?username=ture403&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ture403/github-readme-stats)
 ---
 <br>
+  
 ### : 블로그 싸이트
+  
 <br>
   
  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ture403&theme=default)](https://ture403.tistory.com)
