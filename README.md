@@ -2,8 +2,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20juneyungi's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
-  
 
+### 자바스크립트 이펙트 
+
+▶️ [자바스크립트 마우스 이펙트](https://github.com/ture403/JS-mouse) <br><br>
+▶️ [자바스크립트 서치 이펙트 ](https://github.com/ture403/JS-search) <br><br>
+▶️ [자바스크립트 퀴즈 이펙트 ](https://github.com/ture403/JS-quiz) <br><br>
+▶️ [자바스크립트 슬라이더 이펙트 ](https://github.com/ture403/JS-slider) <br><br>
+▶️ [자바스크립트 PARALLAX 이펙트 ](https://github.com/ture403/JS-parallax) <br><br>
 
 
 [![ture403's GitHub stats](https://github-readme-stats.vercel.app/api?username=ture403&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ture403/github-readme-stats)
