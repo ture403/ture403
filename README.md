@@ -11,6 +11,7 @@
 ▶️ [자바스크립트 슬라이더 이펙트 ](https://github.com/ture403/JS-slider) <br><br>
 ▶️ [자바스크립트 PARALLAX 이펙트 ](https://github.com/ture403/JS-parallax) <br><br>
 ▶️ [next.js Theads 만들기 ](https://github.com/ture403/Theads) <br><br>
+▶️ [vue3.0.js 포트폴리오 만들기 ](https://github.com/ture403/site2023-vue3.0-renew) <br><br>
 
 
 [![ture403's GitHub stats](https://github-readme-stats.vercel.app/api?username=ture403&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ture403/github-readme-stats)
